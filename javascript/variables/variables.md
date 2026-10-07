@@ -1,4 +1,4 @@
-#Variables
+# Variables
 
 ## What a variable is
 A variable in JavaScript or any programming language for that matter is used to store information that can be used repeatedly across the program.
@@ -15,7 +15,7 @@ age = 26;
 var name = "Manjot";
 name = "mango";
 ```
-is valid and wont' throw any errors but 
+is valid and won't throw any errors but 
 ```
 const age = 26;
 age = 26;
